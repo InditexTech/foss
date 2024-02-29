@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-> Note: This Code of Conduct is a baseline for this project and it doesn't overpass 
+> Note: This Code of Conduct is a baseline for this project and it doesn't overpass
 current [Inditex's corporate ethics](https://www.inditex.com/itxcomweb/en/group/our-ethical-commitment).
 
 ## Our Pledge

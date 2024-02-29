@@ -25,4 +25,4 @@ coordinate disclosure with the researcher(s).
 
 ## Policy
 
-Find out more about our [responsible disclosure policy](https://inditex.responsibledisclosure.com/hc/en-us#vdp_policy)
+Find out more about our [responsible disclosure policy](https://inditex.responsibledisclosure.com/hc/en-us#vdp_policy).

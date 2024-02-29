@@ -6,7 +6,7 @@ this project.
 
 ## Prerequisites
 
-- Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)]().
+- Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)](./documents/ITX_OSS_CLA.pdf).
 
 ## How to Contribute
 
