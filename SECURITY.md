@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Industria de Diseño Textil S.A. INDITEX
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Security
 
 We at Inditex believe that responsible disclosure of security vulnerabilities helps us ensure the security and privacy
@@ -25,4 +31,4 @@ coordinate disclosure with the researcher(s).
 
 ## Policy
 
-Find out more about our [responsible disclosure policy](https://inditex.responsibledisclosure.com/hc/en-us#vdp_policy)
+Find out more about our [responsible disclosure policy](https://inditex.responsibledisclosure.com/hc/en-us#vdp_policy).

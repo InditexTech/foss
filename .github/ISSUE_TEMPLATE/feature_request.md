@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Industria de Diseño Textil S.A. INDITEX
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ---
 name: Feature request
 about: Suggest an idea for this project

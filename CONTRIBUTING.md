@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Industria de Diseño Textil S.A. INDITEX
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Contributing
 
 Thank you for your interest in contributing to this project! We value and appreciate any contributions you can make.
@@ -6,7 +12,7 @@ this project.
 
 ## Prerequisites
 
-- Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)]().
+- Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)](./documents/ITX_OSS_CLA.pdf).
 
 ## How to Contribute
 
