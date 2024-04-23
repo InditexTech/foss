@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Industria de Diseño Textil S.A. INDITEX
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Contributor Covenant Code of Conduct
 
 > Note: This Code of Conduct is a baseline for this project and it doesn't overpass
