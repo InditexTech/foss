@@ -26,8 +26,7 @@ To get involved with our open source projects or to use them as a foundation for
 
 1. **Read the [FOSS Manifesto](./ITX_FOSS_Manifesto.md)**: Familiarize yourself with our philosophy and commitments regarding open source software.
 2. **Review the [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_of_CONDUCT.md)**: Understand the standards and expectations for participating in our projects.
-3. **Explore the [License Recomendations**: Choose the appropriate license for your project, ensuring compliance and clarity in how your software can be used and distributed.
-4. **Utilize the [Issue and Pull Request Templates](./.github/ISSUE_TEMPLATE/)**: Facilitate communication and collaboration by using our standardized templates for contributions.
+3. **Utilize the [Issue and Pull Request Templates](./.github/ISSUE_TEMPLATE/)**: Facilitate communication and collaboration by using our standardized templates for contributions.
 
 ## Contributing
 
