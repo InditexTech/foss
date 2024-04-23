@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Industria de Diseño Textil S.A. INDITEX
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Inditex Tech FOSS repository
 
 Welcome to the official repository of the Inditex Tech's [FOSS (Free and Open Source Software) Manifesto](./ITX_FOSS_Manifesto.md), along with the basic documents and templates designed to guide and standardize the open source projects under our corporate umbrella. This initiative is part of our commitment to embracing and contributing to the open source community, ensuring our projects are accessible, contributable, and maintainable by anyone interested in pushing the boundaries of fashion retail technology.
