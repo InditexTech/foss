@@ -8,9 +8,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Preamble
 
-Inditex Group is an international fashion firm that has always regarded collaboration, innovation, and technology as fundamental elements of its business model. 
+Inditex Group is an international fashion firm that has always regarded collaboration, innovation, and technology as fundamental elements of its business model.
 
-From our commitment to providing superior quality, greater efficiency, and more sustainable processes at every stage of our activity, Inditex considers the use of Free Open Source Software (FOSS) a relevant path for the future. This Inditex FOSS Manifesto establishes the principles that will guide our  relationship with Free and Open Source Software (FOSS) and its community. 
+From our commitment to providing superior quality, greater efficiency, and more sustainable processes at every stage of our activity, Inditex considers the use of Free Open Source Software (FOSS) a relevant path for the future. This Inditex FOSS Manifesto establishes the principles that will guide our  relationship with Free and Open Source Software (FOSS) and its community.
 
 All actions undertaken by the Inditex Group, as well as those taken by individuals within the group, in FOSS (Free and Open Source Software) environments, must adhere to the Code of Conduct, the Information Security Policy, the Personal Data Protection and Privacy Compliance Policy, and internal regulations. These actions should be guided by principles of respect, honesty, integrity, transparency, and responsibility; and also by the following specific principles:
 
