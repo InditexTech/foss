@@ -30,7 +30,7 @@ this project.
 
 ## Contribution Guidelines
 
-- All contributors are expected to follow the project's [code of conduct](CODE_OF_CONDUCT.md). Please be respectful and
+- All contributors are expected to follow the project's [code of conduct](CODE_of_CONDUCT.md). Please be respectful and
 considerate towards other contributors.
 - Before starting work on a new feature or fix, check existing [issues](../../issues) and [pull requests](../../pulls)
 to avoid duplications and unnecessary discussions.
