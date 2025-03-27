@@ -12,9 +12,9 @@ Thank you for your interest in contributing to this project! We value and apprec
 
 Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)](./documents/ITX_OSS_CLA.pdf).
 
-Once signed, send the completed CLA to the designated email address provided in the document.
+Once signed, send the completed CLA to the email address provided in the document (oso@inditex.com).
 
-After submission, you will need to wait for a confirmation email from us before you can start contributing. If there are any issues with your CLA, we will contact you for clarification.
+After submission, you will need to wait for a confirmation email response from us before you can start contributing. If there are any issues with your CLA, we will contact you for clarification.
 
 If you have any questions or encounter issues during the process, please reach out to us via the project's communication channels or the contact email provided in the CLA document.
 
