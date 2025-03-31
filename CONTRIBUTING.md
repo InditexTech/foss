@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this project! We value and apprec
 
 ## Prerequisites
 
-Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)](./documents/ITX_OSS_CLA.pdf).
+Before starting to contribute to the code, you must first sign the [Contributor License Agreement (CLA)](./documents/CLA.pdf).
 
 Once signed, send the completed CLA to the email address provided in the document (oso@inditex.com).
 
