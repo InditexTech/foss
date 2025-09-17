@@ -24,7 +24,7 @@ If you have any questions or need assistance, please open an issue in this repos
 
 ## License
 
-This work is licensed under [CC BY-SA 4.0](./LICENSE.md).
+This work is licensed under [CC BY-SA 4.0](./LICENSE).
 
 ## Disclaimer
 
