@@ -10,14 +10,9 @@ Any person or entity who wants to participate in a FOSS project of Industria de 
 
 By signing this CLA, You accept and agree to the following terms and conditions for Your present and future Contributions submitted to INDITEX. Except for the license granted herein to INDITEX and recipients of software distributed by INDITEX, You reserve all right, title, and interest in and to Your Contributions.
 
-Please read this document carefully before signing and keep a copy for your records.
+Please read this document carefully before signing and contributing.
 
-- Contributor's Full name:
-- Corporate representant name:
-- Email:
-- GitHub User Account:
-
-This Agreement is effective as of the Effective Date below. The rights that you grant to us under these terms are effective on the date you first submitted a Contribution to us, even if your submission took place before the date you agreed to these terms and conditions.
+This Agreement is effective as of the date of signature. The rights that you grant to us under these terms are effective on the date you first submitted a Contribution to us, even if your submission took place before the date you agreed to these terms and conditions.
 
 ## 1. Definitions
 
@@ -133,6 +128,3 @@ If no agreement is reached within fifteen days, the dispute will be submitted to
 ## 7. Electronic signature
 
 The parties hereby agree that this Agreement may be executed with electronic signatures and shall be valid and binding on the parties.
-
-Effective date:
-
