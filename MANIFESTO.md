@@ -4,44 +4,46 @@ SPDX-FileCopyrightText: 2024 INDUSTRIA DE DISEÑO TEXTIL S.A. (INDITEX S.A.)
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Inditex Free, Open Source Software (FOSS) Manifesto
+# Inditex Tech Open Source Manifesto
 
-## Preamble
+> The living version of this manifesto is published at [opensource.inditex.com/about](https://opensource.inditex.com/about). *La versión viva de este manifiesto está publicada en [opensource.inditex.com/es/about](https://opensource.inditex.com/es/about).*
 
-Inditex Group is an international fashion firm that has always regarded collaboration, innovation, and technology as fundamental elements of its business model.
+## How we work with open source
 
-From our commitment to providing superior quality, greater efficiency, and more sustainable processes at every stage of our activity, Inditex considers the use of Free Open Source Software (FOSS) a relevant path for the future. This Inditex FOSS Manifesto establishes the principles that will guide our  relationship with Free and Open Source Software (FOSS) and its community.
+Inditex is the fashion company behind Zara, Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home and Lefties. All united under a single vision: offering our customers an inspiring, high-quality fashion experience.
 
-All actions undertaken by the Inditex Group, as well as those taken by individuals within the group, in FOSS (Free and Open Source Software) environments, must adhere to the Code of Conduct, the Information Security Policy, the Personal Data Protection and Privacy Compliance Policy, and internal regulations. These actions should be guided by principles of respect, honesty, integrity, transparency, and responsibility; and also by the following specific principles:
+To achieve this, we rely firmly on technology: teams that design, build and maintain the software behind the fashion that reaches millions of people every day.
 
-## Inditex Principles
+Our teams and solutions are open source users. Code built on values we echo: collaboration and shared knowledge. That is why we want to be active players in this ecosystem: not only using open source software, but also participating in its communities, contributing to the projects we depend on, and sharing solutions of our own that may be useful to others.
 
-* **Promote FOSS and facilitate participation in its communities**: Inditex will encourage its teams to use, contribute to, and create FOSS projects relevant to our company and our industry.
-* **Ensure security and our ethical commitment**: Inditex will establish procedures that ensure compliance with the regulations, the Company's ethical commitments and obligations in terms of cybersecurity in our teams' FOSS activities, in accordance with our Code of Conduct and internal regulations.
+These principles set the course that guides Inditex Tech's participation in the community with responsibility.
 
-## Principles of Inditex Teams
+## Our open source principles
 
-* Inditex teams will value the reuse of FOSS before opting to develop new tools.
-* Inditex teams participating in FOSS communities will contribute to their positive development and, where possible, will make contributions to *Open Source* software.
-* Inditex teams will act responsibly within the *Open Source Community*, respecting the principles established in the Code of Conduct and internal regulations.
+1. **Adopt with judgement**: Before developing a new tool, we check whether the community has already created a similar solution that meets the need, and whether its maturity, security, licensing and maintenance fit the intended use.
+2. **Support participation and contribution**: We encourage our teams to use and share open source software, to take part in its communities, and to give value back to the projects we depend on. When we improve something, sharing it is the natural path.
+3. **Share with purpose**: We publish projects that solve real problems at Inditex and can be useful beyond our teams. We open code when we believe it can bring real value.
+4. **Act with respect**: We participate in open source communities with respect, honesty and transparency, in line with our ethical commitments and the Inditex Code of Conduct.
+5. **Promote secure practices**: We take care of security, privacy and compliance across all the software we use, contribute to and publish.
 
 ---
 
-## Preámbulo
+# Manifiesto Open Source de Inditex Tech
 
-El Grupo Inditex es una firma internacional de moda que ha tenido siempre a la colaboración, la innovación y la tecnología como elementos fundamentales de su modelo empresarial.  
+## Cómo trabajamos con open source
 
-Desde nuestro compromiso por ofrecer una calidad superior, mayor eficiencia y procesos más sostenibles en cada una de las fases de nuestra actividad, el Grupo Inditex considera la utilización de Free Open Source Software (FOSS) como un camino relevante para el futuro. Por ello, este Inditex FOSS Manifiesto (Manifesto) establece los principios que han de guiar la relación del Grupo Inditex y sus personas con el FOSS y su comunidad.  
+Inditex es la compañía de moda detrás de Zara, Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home y Lefties. Todas unidas bajo una misma visión: ofrecer a nuestros clientes una experiencia de moda inspiradora y de gran calidad.
 
-Todas las actuaciones del Grupo Inditex, o de las personas que forman parte de él, que se realicen en entornos FOSS deben cumplir con el Código de Conducta, la Política de Seguridad de la Información, la Política de cumplimiento en materia de protección de datos personales y privacidad y la normativa interna y estar guiadas por el respeto, la honestidad y la integridad, la transparencia y la responsabilidad y por los siguientes principios específicos:
+Para lograrlo, nos apoyamos firmemente en el desarrollo de tecnología: equipos que diseñan, construyen y mantienen el software que hace posible la moda que llega a millones de personas cada día.
 
-## Principios de Inditex
+Nuestros equipos y soluciones son usuarios de open source. Código que se crea sobre unos valores de los que nos hacemos eco: la colaboración y el conocimiento compartido. Por eso, queremos ser actores activos de este ecosistema, no solo utilizando software open source, sino también participando en sus comunidades, contribuyendo a los proyectos de los que dependemos y compartiendo soluciones propias que puedan ser útiles para otros.
 
-* **Fomentar el FOSS y facilitar la participación en sus comunidades**: El Grupo Inditex promoverá que sus equipos utilicen, contribuyan y creen proyectos de FOSS relevantes para el Grupo y nuestra industria.
-* **Garantizar la seguridad y nuestro compromiso ético**: El Grupo Inditex estableceráá procedimientos que permitan el cumplimiento de la normativa y los compromisos éticos de la Compañía y las obligaciones en materia de ciberseguridad en las actividades FOSS de nuestros equipos, de conformidad con nuestro Código de Conducta y la normativa internas.
+Estos principios marcan el rumbo que orienta la participación de Inditex Tech en la comunidad con responsabilidad.
 
-## Principios de los Equipos de Inditex
+## Nuestros principios open source
 
-* Los equipos del Grupo Inditex valorarán la reutilización de FOSS antes de optar por desarrollar nuevas herramientas.
-* Los equipos del Grupo Inditex que participen en comunidades FOSS contribuirán a su buen desarrollo y, en la medida posible, realizarán contribuciones al software *Open Source*.
-* Los equipos del Grupo Inditex actuarán de forma responsable en la *Comunidad Open Source*, respetando el Código de Conducta y la normativa interna.
+1. **Adoptar con criterio**: Antes de desarrollar una nueva herramienta, identificamos si la comunidad ya ha creado una solución similar que responda a la necesidad y si su madurez, seguridad, licencia y mantenimiento encajan con el uso previsto.
+2. **Apoyar la participación y la contribución**: Fomentamos que nuestros equipos utilicen y compartan software open source, que participen en sus comunidades y que se devuelva valor a los proyectos de los que dependemos. Cuando mejoramos algo, el camino natural es compartirlo.
+3. **Compartir con propósito**: Publicamos proyectos que resuelven problemas reales en Inditex y que pueden ser útiles más allá de nuestros equipos. Abrimos código cuando creemos que puede aportar valor real.
+4. **Actuar con respeto**: Participamos en las comunidades open source con respeto, honestidad y transparencia, en coherencia con nuestros compromisos éticos y el Código de Conducta de Inditex.
+5. **Promover prácticas seguras**: Cuidamos la seguridad, la privacidad y el cumplimiento en todo el software que usamos, contribuimos y publicamos.
