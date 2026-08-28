@@ -6,8 +6,6 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Inditex Tech Open Source Manifesto
 
-> The living version of this manifesto is published at [opensource.inditex.com/about](https://opensource.inditex.com/about). *La versión viva de este manifiesto está publicada en [opensource.inditex.com/es/about](https://opensource.inditex.com/es/about).*
-
 ## How we work with open source
 
 Inditex is the fashion company behind Zara, Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home and Lefties. All united under a single vision: offering our customers an inspiring, high-quality fashion experience.
