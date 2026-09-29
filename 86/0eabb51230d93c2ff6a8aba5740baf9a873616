@@ -1,0 +1,19 @@
+MANIFESTO.md
+  s_33039b76d177c0::t_aea95dbf1d6eee 7,9,11,13,15,17,19,21-25,29,31,33,35,37,39,41,43-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "860eabb51230d93c2ff6a8aba5740baf9a873616",
+  "prompts": {},
+  "sessions": {
+    "s_33039b76d177c0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "47ad7a9f-292b-49a1-bae3-c6434db3521f",
+        "model": "copilot/claude-opus-4.8"
+      },
+      "human_author": "amagan <andreamr@ext.zara.com>"
+    }
+  }
+}
