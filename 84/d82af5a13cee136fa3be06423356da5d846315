@@ -1,0 +1,19 @@
+CLA.md
+  s_dc1fb431d44858::t_c99aced8a3d341 90,92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "84d82af5a13cee136fa3be06423356da5d846315",
+  "prompts": {},
+  "sessions": {
+    "s_dc1fb431d44858": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "530f6bee-845b-4f6e-b210-fa3cedf89c23",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "amagan <andreamr@ext.zara.com>"
+    }
+  }
+}
